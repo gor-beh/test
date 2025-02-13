@@ -1,4 +1,4 @@
-# DeFi Platforms Resource Guide ![DeFi Logo](https://example.com/path-to-logo-if-you-want.png)
+# DeFi Platforms Resource Guide !
 
 *A curated list of Decentralized Finance (DeFi) platforms and tools.*
 
