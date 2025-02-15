@@ -79,8 +79,3 @@ Contributions welcome! To add a platform:
 1. Fork this repo
 2. Edit `DEFI_RESOURCES.md`
 3. Submit a pull request.
-
----
-
-## License
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (Public Domain)
