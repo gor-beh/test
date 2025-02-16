@@ -65,7 +65,7 @@ Decentralized Finance (DeFi) refers to blockchain-based financial services that 
 
 ## Risks
 ⚠️ DeFi involves significant risks:
-- Smart contract vulnerabilities
+- Smart contract vulnerabilities.
 - Impermanent loss (AMMs)
 - Regulatory uncertainty
 - Protocol insolvency
