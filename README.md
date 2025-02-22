@@ -18,15 +18,6 @@
 
 ---
 
-## Introduction
-Decentralized Finance (DeFi) refers to blockchain-based financial services that operate without intermediaries. This document lists key platforms across DeFi categories.
-
-```markdown
-<!-- Add your intro content here -->
-```
-
----
-
 ## Platform Categories
 
 ### Lending & Borrowing
