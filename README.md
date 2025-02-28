@@ -21,7 +21,7 @@
 ## Platform Categories
 
 ### Lending & Borrowing
-| Platform      | Chain       | Description | Link |
+| Platform      | Chains       | Description | Link |
 |---------------|-------------|-------------|------|
 | Aave          | Ethereum    | Algorithmic money market | [Website](https://aave.com) |
 | Compound      | Ethereum    | Interest rate protocols | [Website](https://compound.finance) |
