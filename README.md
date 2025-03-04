@@ -59,6 +59,7 @@
 - Smart contract vulnerabilities.
 - Impermanent loss (AMMs)
 - Regulatory uncertainty
+- ks
 - Protocol insolvency
 
 *Always do your own research (DYOR).*
