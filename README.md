@@ -11,6 +11,7 @@
   - [Decentralized Exchanges (DEXs)](#decentralized-exchanges-dexs)
   - [Yield Farming](#yield-farming)
   - [Derivatives](#derivatives)
+  - 
   - [Staking](#staking)
 - [Risks](#risks)
 - [Contributing](#contributing)
