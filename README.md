@@ -10,6 +10,7 @@
   - [Lending & Borrowing](#lending--borrowing)
   - [Decentralized Exchanges (DEXs)](#decentralized-exchanges-dexs)
   - [Yield Farming](#yield-farming)
+  - 
   - [Derivatives](#derivatives)
   - 
   - [Staking](#staking)
