@@ -1,6 +1,6 @@
 # DeFi Platforms Resource Guide !
 
-*A curated list of Decentralized Finance (DeFi) platforms and tool.*
+*A curated list of Decentralized Finance (DeFi) platforms and tool..*
 
 ---
 ## Table of Contents
