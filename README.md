@@ -2,6 +2,8 @@
 
 *A curated list of Decentralized Finance (DeFi) platforms and tool..*
 
+
+
 ---
 ## Table of Contents
 - [Introduction](#introduction)
