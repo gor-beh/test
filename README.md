@@ -16,9 +16,6 @@
 - [License](#license)
 ---
 ## Platform Categories
-
-/
-
 ### Lending & Borrowing
 
 | Platform      | Chains       | Description | Link |
