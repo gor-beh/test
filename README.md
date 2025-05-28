@@ -12,8 +12,6 @@
   - [Derivatives](#derivatives)
   - [Staking](#staking)
 - [Risks](#risks)
-- [Contributing](#contributing)
-- [License](#license)
 ---
 ### Lending & Borrowing
 
