@@ -15,9 +15,7 @@
   - [Staking](#staking)
 - [Risks](#risks)
 ---
-### Lending & Borrowing
-
-d
+### Lending
 
 | Platform      | Chains       | Description | Link |
 |---------------|-------------|-------------|------|
