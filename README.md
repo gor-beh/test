@@ -13,8 +13,6 @@
 ---
 ### Lending
 
-
-
 | Platform      | Chains       | Description | Link |
 |---------------|-------------|-------------|------|
 | Aave          | Ethereum    | Algorithmic money market | [Website](https://aave.com) |
