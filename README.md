@@ -10,8 +10,6 @@
   - [Derivatives](#derivatives)
   - [Staking](#staking)
 - [Risks](#risks)
-- 
-
 
 ### Lending
 
